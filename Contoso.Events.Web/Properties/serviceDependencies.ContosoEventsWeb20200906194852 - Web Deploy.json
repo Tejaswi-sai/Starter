@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/sv20532tejaswi/databases/db20532",
+      "type": "mssql.azure",
+      "connectionId": "EventsContextConnectionString",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
